@@ -7,7 +7,7 @@ public class JDBC
     public static void main(String args[]) throws Exception
     {
       
-        String url="D";
+        String url="jdbc:mysql://localhost:3306/student";
         String uname="root";
         String pass="root";
         
